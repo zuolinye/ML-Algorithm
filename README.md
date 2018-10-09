@@ -10,3 +10,10 @@
 ### 其他
 1. [LaTex教程及在线公式编辑器](https://github.com/zuolinye/ML-Algorithm/blob/master/LaTex%E6%95%99%E7%A8%8B%E5%8F%8A%E5%9C%A8%E7%BA%BF%E5%85%AC%E5%BC%8F%E7%BC%96%E8%BE%91%E5%99%A8.md)
 
+
+
+
+### 格式
+1. 每个算法的小结
+2. 对于每个算法提出的问题
+3. 

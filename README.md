@@ -3,6 +3,7 @@
 
 ### 机器学习算法
 1. [线性回归算法汇总](https://github.com/zuolinye/ML-Algorithm/blob/master/%E7%BA%BF%E6%80%A7%E5%9B%9E%E5%BD%92%EF%BC%88Linear%20Regression%EF%BC%89/%E7%BA%BF%E6%80%A7%E5%9B%9E%E5%BD%92%E7%AE%97%E6%B3%95%E6%B1%87%E6%80%BB.md)
+2. [逻辑回归算法汇总](https://github.com/zuolinye/ML-Algorithm/blob/master/2.%20%E9%80%BB%E8%BE%91%E5%9B%9E%E5%BD%92%EF%BC%88Logistic%20Regression%EF%BC%89/%E9%80%BB%E8%BE%91%E5%9B%9E%E5%BD%92%E7%AE%97%E6%B3%95%E6%B1%87%E6%80%BB.md) 
 
 
 
